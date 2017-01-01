@@ -1,6 +1,9 @@
 # Reloader
 
-**TODO: Add description**
+This project is for a proof of concept.
+
+Reloader is a minimal auto code reloader like Phoenix.CodeReloader.
+
 
 ## Installation
 
